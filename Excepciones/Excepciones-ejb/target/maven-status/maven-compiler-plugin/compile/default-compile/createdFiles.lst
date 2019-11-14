@@ -1,0 +1,12 @@
+Entity\Hijo_.class
+POJO\HijoPOJO.class
+Default\AbstractFacade.class
+Entity\Hijo.class
+Entity\Persona_.class
+Excepciones\ExcepcionEjemplo1.class
+Controllers\HijoFacade.class
+Entity\Persona.class
+Controllers\PersonaFacade.class
+Interfaces\HijoFacadeLocal.class
+Interfaces\PersonaFacadeLocal.class
+POJO\PadrePOJO.class
